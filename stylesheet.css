@@ -1,0 +1,457 @@
+.logo{
+  background-image: url(header_logo-0dbc9cb7c037472d3bf71fde0c1d3efd708c2c2547e9ed3e420051ca826cdad8.png);
+
+ width: 131px;
+    height: 116px;
+
+margin: 0 auto 16px;
+margin-top: 15vh;
+
+
+
+
+background-size: cover;
+}
+.top-wrapper{
+  background-image:url(bg_header_pink-4704d42ed44908fb061e80afc515a93ab2fcbfd605c2580de486a4d980b2115a.jpg);
+background-repeat: no-repeat;
+  height: 773px;
+  background-position: center bottom;
+  background-size: cover;
+  display: block;
+  min-height: 660px;
+    text-align: center;
+    position: relative;
+    padding-top: 48px;
+
+color: white;
+
+}
+*{
+  padding: 0;
+  margin: 0;
+}
+.kawai{
+  font-family:"Noto Sans JP", sans-serif;
+font-size: 20px;
+      line-height: 1.6;
+      letter-spacing: 0.05rem;
+  margin: 22px 6vmin 24px;
+  color: white;
+  font-weight: 400;
+}
+
+.Apple{
+  background-image: url(button_appstore-051aa15bf928be268379e38d0144392c72467a38671b8c9338d015936431fd3d.png);
+  width: 202px;
+  height: 60px;
+  background-size: cover;
+  margin:0 auto;
+}
+.intro{
+  color:white;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 21px;
+}
+.intro{
+  position: absolute;
+    bottom: 24px;
+    margin: 0 auto;
+    text-align: center;
+    left: 0;
+    right: 0;
+    margin: 24px 0;
+}
+
+
+
+
+.main{
+  display: block;
+  height: 656.797;
+  margin: 0;
+
+}
+.main {
+  color:white;
+
+}
+.AA{
+  font-size: 24px;
+  line-height: 38px;
+  font-weight: 400;
+
+}
+.BB{
+  margin-bottom: 10px;
+}
+.coment{
+  color:white;
+  font-family: "Noto Sans JP", sans-serif;
+    line-height: 24px;
+    letter-spacing: 0.05rem;
+    font-size: 15px;
+}
+.left{
+  background-image: url(left.jpg);
+
+  background-size: cover;
+    display: block;
+    background-position: center bottom;
+  padding:65.680px 31.280px;
+width: 417.680px;
+height: 525.437px;
+
+}
+.center{
+  background-image: url(center.jpg);
+  background-size: cover;
+background-position: center bottom;
+    display: block;
+  padding:65.680px 31.280px;
+  width: 417.680px;
+height: 525.437px;
+
+}
+.right{
+background-image: url(right.jpg);
+background-size: cover;
+  display: block;
+  background-position: center bottom;
+  width: 417px;
+  padding-top: 65.680px;
+padding-bottom: 65.680px;
+padding-left: 31.260px;
+padding-right: 31.260px;
+height: 525.437px;
+overflow: hidden;
+
+}
+.contents-item{
+  float: left;
+  box-sizing:border-box;
+  overflow: hidden;
+}
+
+
+.contents2{
+  float:left;
+  width: 50%;
+
+
+}
+.left2{
+  height:379px;
+  padding: 64px 24px;
+  background-color:#f5f5f5;
+}
+.right2{
+  height:379px;
+  padding: 64px 24px;
+}
+
+
+.pic1{
+  background-image: url(pic1.png);
+  background-size: 110px 188px;
+  background-position: center;
+  background-repeat: no-repeat;
+
+background-color: white;
+
+  border-radius: 12px;
+  height:252px;
+  width:192px;
+  margin-right: 16px;
+
+}
+
+.pic2{
+  background-image: url(pic2.png);
+  background-size: 110px 188px;
+  background-position: center;
+  background-repeat: no-repeat;
+
+background-color: white;
+
+  border-radius: 12px;
+  height:252px;
+  width:192px;
+
+
+}
+.F-pic{
+  float: left;
+}
+
+
+
+
+.picture1{
+  width:400px;
+  height: 252px;
+  background-color:#f5f5f5;
+  text-align: center;
+  margin:0 auto;
+  margin-bottom: 16px;
+}
+.choice{
+  text-align: center;
+  font-size: 26px;
+  line-height: 42px;
+  color:#3f434a;
+  font-weight: 400;
+  letter-spacing: 0.05rem;
+  font-family: "Noto Sans JP", sans-serif;
+  margin-bottom: 10px;
+}
+.intro-F{
+  font-size: 13px;
+  line-height: 21px;
+  color: #3f434a;
+  font-weight: 400;
+  font-family: "Noto Sans JP", sans-serif;
+  margin:0 auto;
+  width: 400px;
+}
+.calender{
+  background-image: url(calender.png);
+  width: 672px;
+  height: 156px;
+  background-size: contain;
+  background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 34px;
+
+}
+.right2{
+  width: 672px;
+  height: 244px;
+  padding:64px 24px;
+  margin:67.5px 0;
+  text-align: center;
+}
+.every{
+font-style: normal;
+
+  font-size: 20px;
+  line-height: 32px;
+  color:#3f434a;
+  font-weight: 400;
+  font-family:"Noto Sans JP", sans-serif;
+}
+.what-flower{
+  height: 730px;
+    display: flex;
+    background: #ead5dc;
+
+  padding: 0 25.32px;
+}
+.flower-picpic{
+  background-image: url(cutepic.jpg);
+  background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 730px;
+    width: 50%;
+}
+.deliver-intro{
+  margin: 0 auto;
+  text-align: center;
+  width: 400px;
+  margin-top: 140px;
+  margin-left: 147.34px;
+  margin-right: 147.34px;
+
+}
+.ABC{
+  text-align: left;
+  margin-bottom: 15px;
+  font-size: 15px;
+  line-height: 24px;
+  color: #3f434a;
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 400;
+}
+.which{
+  margin-bottom: 24px;
+  font-size: 26px;
+  line-height: 42px;
+  color:#3f434a;
+  font-weight: 400;
+  font-family: "Noto Sans JP", sans-serif;;
+}
+.CF{
+  margin-top:24px;
+  margin-bottom: 10px;
+  font-size: 22px;
+  line-height: 35px;
+  color: :#3f434a;
+  font-weight: 400;
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+.contents3{
+  float:left;
+  width: 50%;
+
+}
+.bottle-pic1{
+  background-image: url(bottlepic1.jpg);
+  height: 116px;
+  width: 98px;
+  background-size: contain;
+}
+.bottle-pic2{
+  background-image: url(bottlepic2.jpg);
+  height: 116px;
+  width: 98px;
+  background-size: contain;
+}
+.bottle-pic3{
+  background-image: url(bottlepic3.jpg);
+  height: 116px;
+  width: 98px;
+  background-size: contain;
+}
+.right-2{
+  background-image: url(right-pic.jpg);
+background-size: cover;
+height:730px;
+}
+.CF2{
+
+
+    font-size: 26px;
+    line-height: 42px;
+    color:#3f434a;
+    font-weight: 400;
+
+    font-family: "Noto Sans JP", sans-serif;
+
+
+
+
+}
+.top-intro{
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.benefit{
+  margin: 0 auto;
+  text-align: center;
+  border:  2px solid white;
+  width: 188.828px;
+  padding: 4px 8px;
+  background: white;
+}
+.benefit p{
+
+font-size: 14px;
+line-height: 22px;
+color: #3f434a;
+font-family: "Noto Sans JP", sans-serif;
+font-weight: bold;
+
+
+}
+.main-intro{
+  margin: 0 auto;
+  margin-top: 32px;
+  width: 400px;
+}
+.main-intro p{
+  font-size: 15px;
+  line-height: 24px;
+  color: #3f434a;
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 400;
+  padding-bottom: 15px;
+
+
+}
+.bottle-pic{
+
+display: flex;
+justify-content: space-between;
+width: 400px;
+text-align: center;
+margin: 0 auto;
+margin-top: 24px;
+margin-bottom: 24px;
+
+}
+.bottle-pic p{
+  margin-top: 90px;
+}
+.PPP{
+  float: left;
+}
+.HH{
+  clear: left;
+  margin: 0 auto;
+
+    width: 400px;
+}
+.price-rule{
+  border: 2px solid black;
+  padding: 4px;
+  margin-right: 16px;
+}
+.left-2{
+background:  #E7E3DF;
+  height: 730px;
+}
+.easy-cute{
+  padding-top: 100px;
+  background:  #E7E3DF;
+  height: 730px
+}
+.ABCD{
+  margin: 0 auto;
+  text-align:center;
+  height: 56px;
+  width: 400px;
+  margin-bottom: 16px;
+}
+.KKK p{
+  font-size: 13px;
+  line-height: 21px;
+  color: #3f434a;
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 400;
+}
+.P2{
+  text-align: left;
+  font-size: 18px;
+  line-height: 29px;
+  color: #3f434a;
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 400;
+
+}
+.price-rule p{
+  font-size: 14px;
+  line-height: 22px;
+  color: #3f434a;
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: bold;
+}
+.P3{font-size: 13px;
+line-height: 21px;
+color: #3f434a;
+font-family: "Noto Sans JP", sans-serif;
+font-weight: 400;
+
+}
+.last-intro p{
+  font-size: 13px;
+  line-height: 21px;
+  color: #3f434a;
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 400;
+
+}
